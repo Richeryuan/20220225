@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    
    <?php $name ="richer"; ?>
 <h1> <?php echo "Richer";?> </h1>
 
