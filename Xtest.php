@@ -12,6 +12,7 @@
 
 
 
+
 <h2>I'm <?php echo $_GET["name"]; ?></h2>
 <!-- http://localhost/20220227/Xtest.php?name=get -->
 </body>
